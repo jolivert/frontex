@@ -39,6 +39,10 @@
 
 #dog{
   border-color: red;
-  height: 400px;
-  width: 400px;
+  
+}
+
+button {
+  height: 50px;
+  width: 150px;
 }
